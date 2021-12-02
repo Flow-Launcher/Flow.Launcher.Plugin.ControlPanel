@@ -1,2 +1,2 @@
 # Flow.Launcher.Plugin.ControlPanel
-Archived ControlPanel plugin project
+This is the repo for Flow.Launcher's ControlPanel plugin. This plugin has been extracted out of Flow Launcher as its core functionalities have been replaced by WindowsSettings plugin. For a history of the commits to this plugin, please see the commit history for Flow Launcher instead.
